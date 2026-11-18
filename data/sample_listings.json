@@ -109,7 +109,8 @@
     "price": 1100,
     "transport_buffer": 500,
     "fmv": 9563,
-    "url": "https://www.copart.com/lot/76221966"
+    "url": "https://www.copart.com/lot/76221966",
+    "img": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1126/61c5708c96f2474a846deabcb233f938_ful.jpg"
   },
   {
     "id": "COPART-76829146",
